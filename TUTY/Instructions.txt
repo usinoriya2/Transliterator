@@ -1,0 +1,4 @@
+Extract the zip file into a folder.
+Put a file name "input.txt" in "UTF-8" format in this folder.
+Right click  the "RunProgram.bat" file and click "edit" and replace "C:\Program Files (x86)\Java\jdk1.8.0_20\bin\java.exe" with the java location on your hard disk. Save the bat file.
+Double click "RunProgram.bat" to get "output.txt" file in UTF-8 format.
